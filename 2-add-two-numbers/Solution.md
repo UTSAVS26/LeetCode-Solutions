@@ -1,23 +1,30 @@
+## Problem Statement:
+
+You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
+
+You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+
 ## Intuition:
 
-The Intuition is to iterate through two linked lists representing non-negative integers in reverse order, starting from the least significant digit. It performs digit-wise addition along with a carry value and constructs a new linked list to represent the sum. The process continues until both input lists and the carry value are exhausted. The resulting linked list represents the sum of the input numbers in the correct order.
+To add two numbers represented by linked lists, we start from the rightmost digits (least significant) and move towards the left. We perform addition digit by digit, considering any carryover from the previous addition. Each time we add digits, we create a new node to store the result. By continuing this process until both numbers and any carryover are exhausted, we generate a new linked list representing the sum.
 
 ### Explanation:
 
-1. Create a placeholder node called `dummyHead` with a value of 0. This node will hold the resulting linked list.
-2. Initialize a pointer called `tail` and set it to `dummyHead`. This pointer will keep track of the last node in the result list.
-3. Initialize a variable called `carry` to 0. This variable will store the carry value during addition.
-4. Start a loop that continues until there are no more digits in both input lists (`l1` and `l2`) and there is no remaining carry value.
-   - Inside the loop:
-     - Check if there is a digit in the current node of `l1`. If it exists, assign its value to a variable called `digit1`. Otherwise, set `digit1` to 0.
-     - Check if there is a digit in the current node of `l2`. If it exists, assign its value to a variable called `digit2`. Otherwise, set `digit2` to 0.
-     - Add the current digits from `l1` and `l2`, along with the carry value from the previous iteration, and store the sum in a variable called `sum`.
-     - Calculate the unit digit of `sum` by taking the modulus (%) of `sum` by 10. This digit will be placed in a new node for the result.
-     - Update the `carry` variable by dividing `sum` by 10 and taking the integer division (/) part. This gives us the carry value for the next iteration.
-     - Create a new node with the calculated digit as its value.
-     - Attach the new node to the `tail` node of the result list.
-     - Move the `tail` pointer to the newly added node.
-     - Move to the next nodes in both `l1` and `l2`, if they exist. If either list is exhausted, set the corresponding pointer to `nullptr`.
-5. After the loop, obtain the actual result list by skipping the `dummyHead` node.
-6. Delete the `dummyHead` node.
-7. Return the resulting list.
+1. **Setting Up**: We start with a placeholder node `dummyHead` to hold the result and a pointer `tail` to keep track of the last node in the result list. We also initialize a variable `carry` to hold any carryover during addition.
+
+2. **Addition Loop**: We loop through both input lists (`l1` and `l2`) and the carry value until all digits are added.
+   - **Inside the Loop**: 
+     - We consider the current digits from both lists (`l1` and `l2`) along with any carryover from the previous addition.
+     - We add these digits and the carryover to get the sum.
+     - From this sum, we extract the digit for the current position and update the carry value for the next iteration.
+     - We create a new node with the calculated digit and attach it to the result list.
+     - We move the `tail` pointer to the newly added node.
+     - We move to the next digits in both input lists, if available.
+
+3. **Finalizing the Result**: After the loop, we have the result linked list. We skip the `dummyHead` node to obtain the actual result.
+
+4. **Cleanup**: We delete the `dummyHead` node.
+
+5. **Return**: Finally, we return the resulting linked list.
+
+By following this process, we effectively add the two numbers represented by the input linked lists and return the sum as a new linked list.
