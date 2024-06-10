@@ -1,7 +1,7 @@
-# LeetCode Solutions Repository
+# LeetCode Solution
 
-![Technology GIF 1](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
-![Technology GIF 8](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
+![Technology GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+![Technology GIF](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
 
 Welcome to the LeetCode Solutions repository! This collection of solutions aims to provide clear, efficient, and well-documented answers to various problems on LeetCode. Each problem is solved in Python, C++, and Java.
 
@@ -12,7 +12,7 @@ LeetCode offers a vast collection of coding problems to sharpen your programming
 
 Whether you're a beginner looking to improve your coding skills or an experienced developer preparing for technical interviews, these solutions can serve as valuable resources to enhance your problem-solving abilities.
         
-![Technology GIF 2](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif) 
+![Technology GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif) 
 
 ## 🚀 Usage
 
@@ -58,7 +58,7 @@ If you have any questions or suggestions, feel free to reach out to the reposito
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. Here’s how you can help:
 
-![Technology GIF 3](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
+![Technology GIF](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
 
 1. **Fork** the repository.
 2. **Create** your feature branch (`git checkout -b feature/AmazingFeature`).
