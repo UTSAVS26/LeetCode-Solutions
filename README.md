@@ -24,6 +24,15 @@ To use these solutions, simply navigate to the folder corresponding to the probl
 - 📄 A `README.md` file explaining the problem statement, the approach, and any nuances.
 - 📄 A `Solution.md` file for medium and hard questions, containing the problem statement, approach, and nuances.
 
+## 📚 Problem List
+
+| Problem Number | Problem Name | Difficulty | Link |
+|----------------|--------------|------------|------|
+| 1              | Two Sum | Easy     | [1-two-sum](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/1-two-sum) |
+| 2              | Add Two Numbers | Medium     | [2-add-twonumbers](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/2-add-two-numbers) |
+| 1137              | Height Checker | Easy       | [1137-height-checker](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/1137-height-checker) |
+| ...            | ...          | ...        | ...        |
+
 <!--
 ## 🤝 Contributors
 
