@@ -36,23 +36,21 @@ To use these solutions, simply navigate to the folder corresponding to the probl
 | 1137              | Height Checker | Easy       | [1137-height-checker](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/1137-height-checker) |
 | ...            | ...          | ...        | ...        |
 
-<!--
+
 ## 🤝 Contributors
 
 We welcome contributions from the community! Here are some of the key contributors to this repository:
 
 | Contributor | GitHub | LinkedIn | Bio |
 |-------------|--------|----------|-----|
-| **John Doe** | ![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png) [JohnDoe](https://github.com/JohnDoe) | ![LinkedIn](https://img.icons8.com/ios-filled/30/000000/linkedin.png) [John Doe](https://www.linkedin.com/in/johndoe/) | Python enthusiast, passionate about algorithms and problem-solving. |
-| **Jane Smith** | ![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png) [JaneSmith](https://github.com/JaneSmith) | ![LinkedIn](https://img.icons8.com/ios-filled/30/000000/linkedin.png) [Jane Smith](https://www.linkedin.com/in/janesmith/) | C++ aficionado, loves tackling complex problems and optimizing code for performance. |
+| **Utsav Singhal** | ![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png) [UTSAVS26](https://github.com/UTSAVS26) | ![LinkedIn](https://img.icons8.com/ios-filled/30/000000/linkedin.png) [Utsav Singhal](https://www.linkedin.com/in/utsavsinghal2604/) | AI & ML Enthusiast, Strong Foundation in Computer Science & Math, Proficient in Python, Deep Learning, NLP, and Computer Vision, Passionate Problem Solver, Analytical Thinker & Team Player |
+| ...            | ...          | ...        | ...        |
 
 ## 📧 Contact
 
 If you have any questions or suggestions, feel free to reach out to the repository owner:
 
-- 📬 Email: [contact@leetcode-solutions.com](mailto:contact@leetcode-solutions.com)
-- 🐦 Twitter: [@LeetCodeSolves](https://twitter.com/LeetCodeSolves)
--->
+- 📬 Email: [utsavsinghal26@gmail.com](mailto:utsavsinghal26@gmail.com)
 
 ## 🌟 Contributions
 
