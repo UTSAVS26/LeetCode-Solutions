@@ -29,7 +29,9 @@ To use these solutions, simply navigate to the folder corresponding to the probl
 | Problem Number | Problem Name | Difficulty | Link |
 |----------------|--------------|------------|------|
 | 1              | Two Sum | Easy     | [1-two-sum](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/1-two-sum) |
-| 2              | Add Two Numbers | Medium     | [2-add-twonumbers](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/2-add-two-numbers) |
+| 2              | Add Two Numbers | Medium     | [2-add-two-numbers](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/2-add-two-numbers) |
+| 9              | Palindrome Number | Easy     | [9-palindrome-number](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/9-palindrome-number) |
+| 13              | Roman to Integer | Easy     | [13-roman-to-integer](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/13-roman-to-integer) |
 | 1137              | Height Checker | Easy       | [1137-height-checker](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/1137-height-checker) |
 | ...            | ...          | ...        | ...        |
 
