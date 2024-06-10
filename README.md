@@ -23,6 +23,7 @@ To use these solutions, simply navigate to the folder corresponding to the probl
 - ☕ A `.java` file with the Java solution.
 - 📄 A `README.md` file explaining the problem statement, the approach, and any nuances.
 
+<!--
 ## 🤝 Contributors
 
 We welcome contributions from the community! Here are some of the key contributors to this repository:
@@ -38,6 +39,7 @@ If you have any questions or suggestions, feel free to reach out to the reposito
 
 - 📬 Email: [contact@leetcode-solutions.com](mailto:contact@leetcode-solutions.com)
 - 🐦 Twitter: [@LeetCodeSolves](https://twitter.com/LeetCodeSolves)
+-->
 
 ## 🌟 Contributions
 
@@ -51,6 +53,7 @@ Contributions are what make the open-source community such an amazing place to l
 4. **Push** to the branch (`git push origin feature/AmazingFeature`).
 5. **Open** a Pull Request.
 
+<!--
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
@@ -63,5 +66,6 @@ Stay up-to-date with the latest solutions and discussions:
 - 💬 [Discord](https://discord.com/invite/leetcode-solutions)
 - 📺 [YouTube](https://www.youtube.com/channel/LeetCodeSolutions)
 - 📷 [Instagram](https://www.instagram.com/leetcode_solutions)
+-->
 
 Happy Coding!
