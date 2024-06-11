@@ -34,6 +34,7 @@ To use these solutions, simply navigate to the folder corresponding to the probl
 | 13              | Roman to Integer | Easy     | [13-roman-to-integer](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/13-roman-to-integer) |
 | 14              | Longest Common Prefix | Easy     | [14-longest-common-prefix](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/14-longest-common-prefix) |
 | 1137              | Height Checker | Easy       | [1137-height-checker](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/1137-height-checker) |
+| 1217              | Relative Sort Array | Easy       | [1217-relative-sort-array](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/1217-relative-sort-array) |
 | ...            | ...          | ...        | ...        |
 
 
