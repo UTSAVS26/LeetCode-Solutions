@@ -24,20 +24,6 @@ To use these solutions, simply navigate to the folder corresponding to the probl
 - 📄 A `README.md` file explaining the problem statement, the approach, and any nuances.
 - 📄 A `Solution.md` file for medium and hard questions, containing the problem statement, approach, and nuances.
 
-## 📚 Problem List
-
-| Problem Number | Problem Name | Difficulty | Link |
-|----------------|--------------|------------|------|
-| 1              | Two Sum | Easy     | [1-two-sum](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/1-two-sum) |
-| 2              | Add Two Numbers | Medium     | [2-add-two-numbers](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/2-add-two-numbers) |
-| 9              | Palindrome Number | Easy     | [9-palindrome-number](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/9-palindrome-number) |
-| 13              | Roman to Integer | Easy     | [13-roman-to-integer](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/13-roman-to-integer) |
-| 14              | Longest Common Prefix | Easy     | [14-longest-common-prefix](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/14-longest-common-prefix) |
-| 1137              | Height Checker | Easy       | [1137-height-checker](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/1137-height-checker) |
-| 1217              | Relative Sort Array | Easy       | [1217-relative-sort-array](https://github.com/UTSAVS26/LeetCode-Solutions/tree/main/1217-relative-sort-array) |
-| ...            | ...          | ...        | ...        |
-
-
 ## 🤝 Contributors
 
 We welcome contributions from the community! Here are some of the key contributors to this repository:
