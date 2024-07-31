@@ -22,7 +22,6 @@ To use these solutions, simply navigate to the folder corresponding to the probl
 - 🐱‍💻 A `.cpp` file with the C++ solution.
 - ☕ A `.java` file with the Java solution.
 - 📄 A `README.md` file explaining the problem statement, the approach, and any nuances.
-- 📄 A `Solution.md` file for medium and hard questions, containing the problem statement, approach, and nuances.
 
 ## 🤝 Contributors
 
