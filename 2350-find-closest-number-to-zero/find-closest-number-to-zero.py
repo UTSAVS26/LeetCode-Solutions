@@ -8,4 +8,5 @@ class Solution:
 
         if closest < 0 and abs(closest) in nums:
             return abs(closest)
-        return closest
+        else:
+            return closest
